@@ -1,4 +1,5 @@
 # Call-Centre-Performance-Analysis
+![](https://github.com/Ratafar22/Call-Centre-Performance-Analysis/blob/main/Call-Centre-Image.jpg)
 
 ## Introduction
 In this project, I dived into the world of customer service and analysed the performance of a Call Centre. This project aims to assess how well the company is doing in terms of the services provided to its customers and to gain insights into how the customers perceive the business.
