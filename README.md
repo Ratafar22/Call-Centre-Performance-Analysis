@@ -17,8 +17,9 @@ Microsoft Power BI
 
 ## Skills Demonstrated:
 -	Data Manipulation
--	Dax Functions used (SUM,COUNT, IF, VAR,MINX, MAXX, CONCATENATEX, FILTER, CALCULATE, ADDCOLUMNS.
--	Advanced KPIs metrics
+-	Dax Functions used (SUM, COUNT, IF, VAR, MINX, MAXX, CONCATENATEX, FILTER, CALCULATE, ADDCOLUMNS).
+-	Use of Advanced KPIs metrics
+-	Used Advanced Filters/Slicers
 
 ## Data Source:
 The dataset used is #RWFD gotten from here
