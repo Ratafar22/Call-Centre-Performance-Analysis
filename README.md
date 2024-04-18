@@ -34,7 +34,7 @@ A new column was created to sort and order the variables in the sentiment column
 The dashboard contains 3 highly interactive pages that help answer the business questions. You can interact with the report here
 
 
-You can interact with the report [here](link)
+You can interact with the report [here](https://t.co/NYfyn92Vc6)
 ---
 
 ## Insights and Recommendation
