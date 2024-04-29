@@ -17,10 +17,21 @@ Below are the questions this analysis tends to answer.
 Microsoft Power BI
 
 ## Skills Demonstrated:
--	Data Manipulation
--	Dax Functions used (SUM, COUNT, IF, VAR, MINX, MAXX, CONCATENATEX, FILTER, CALCULATE, ADDCOLUMNS).
--	Use of Advanced KPIs metrics
--	Used Advanced Filters/Slicers
+In this project, I demonstrated my expertise in the following areas:
+
+✅ Researching the industry to understand the business requirements
+
+✅ Data exploration to understand the columns
+
+✅ Connecting the data to Power BI
+
+✅ Data Manipulation and Transformation
+
+✅ Data Manipulation using Advanced DAX (SUM, COUNT, IF, VAR, MINX, MAXX, CONCATENATEX, FILTER, CALCULATE, ADDCOLUMNS) to create measures
+
+✅ Comparing Key performance metrics to the industry standard.
+
+✅ Making recommendations based on the insights derived from the analysis.
 
 ## Data Source:
 The dataset used is #RWFD gotten from [here](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv)
